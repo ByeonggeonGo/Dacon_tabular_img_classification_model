@@ -1,3 +1,5 @@
 ##폴더무시
 test/
 train/
+data/
+dask-worker-space/
